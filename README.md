@@ -43,6 +43,8 @@ Jello World
 
 ---
 
+## Latihan 2
+
 ![Latihan 2](https://user-images.githubusercontent.com/115514467/212912750-dccc7b57-91e7-4b05-8eff-b7f2b5061e3a.jpg)
 
 - Untuk melengkapi kode tersebut, tambahkan kurung kurawal `{}` sebelum tahun
