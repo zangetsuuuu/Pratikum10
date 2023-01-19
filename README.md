@@ -64,4 +64,8 @@ Hello, nama saya John, dan umur saya adalah 24 tahun
 
 ---
 
+## Link Pratikum 11
+
+> [Pratikum 11](https://github.com/zangetsuuuu/Pratikum11)
+
 ### Sekian, terimakasih
